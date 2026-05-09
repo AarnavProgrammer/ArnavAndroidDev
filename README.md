@@ -22,10 +22,7 @@ Hello, I am Aarnav and I am a Author and a self-taught and certified Java develo
 
 - :zap: In my free time, I write blogs.
 
-- :mailbox:How to reach me:  <a href="https://www.linkedin.com/in/arnav-shukla30/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
+
   ---
   
   ### :hammer_and_wrench: Languages and Tools :
@@ -40,7 +37,6 @@ Hello, I am Aarnav and I am a Author and a self-taught and certified Java develo
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind"  alt="Tailwind" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
@@ -54,7 +50,3 @@ Hello, I am Aarnav and I am a Author and a self-taught and certified Java develo
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-### :writing_hand: Blog Posts :
-
--<a href="https://randomhub.in/10-tips-for-a-healthy-lifestyle/">8 tactics to get freelance clients</a> 
