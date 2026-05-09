@@ -15,7 +15,7 @@
 ---
 
 ### :woman_technologist: About Me :
-Hello, I am Arnav and I am a self-taught and certified Java developer, Data Scientist and AI ML engineer. software development is my passion.
+Hello, I am Aarnav and I am a Author and a self-taught and certified Java developer, Data Scientist and AI ML engineer.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications I am currently working as a freelancer.
 
 - :seedling: Exploring Technical Content Writing.
